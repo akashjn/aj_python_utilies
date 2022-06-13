@@ -7,6 +7,7 @@ For the original code, more information, usage, example and citation read more a
 https://github.com/charnley/rmsd
 """
 
+# creating a new branch
 __version__ = "1.4"
 
 import argparse
